@@ -1,0 +1,22 @@
+{
+  "name": "electron-vue-cdn-starter",
+  "version": "0.1.0",
+  "description": "A starter electron app with vue (+router) support (using CDN, no build step)",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "vue",
+    "vue-router"
+  ],
+  "author": "naughtyfinch",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^29.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
